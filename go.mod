@@ -1,4 +1,4 @@
-module github.com/modsdemo/dep9
+module github.com/modsdemo/dep9/v2
 
 go 1.12
 
